@@ -1,1 +1,1 @@
-# twitter-dataanalysis-mapreduce-scala
+# twitter-data-analysis-mapreduce-scala
